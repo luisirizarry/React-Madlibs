@@ -1,0 +1,17 @@
+body {
+  height: 100%;  
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e9ecef;
+  font-family: 'Arial', sans-serif;
+}
+
+#root {
+  width: 50vw;
+} 

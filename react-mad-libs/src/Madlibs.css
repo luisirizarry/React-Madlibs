@@ -1,0 +1,14 @@
+.madlibs-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+}
+
+.madlibs-title {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 20px;
+}
