@@ -1,19 +1,19 @@
 .story-container {
     padding: 20px;
     text-align: center;
-    background-color: #e0e0e0;
+    background-color: #6e6e6e;
     border-radius: 8px;
     margin-top: 20px;
 }
 
 .story-text {
     font-size: 1.2rem;
-    color: #333;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 
 .restart-button {
-    background-color: #ff6347;
+    background-color: #ff2600;
     color: white;
     padding: 10px;
     border: none;
@@ -22,5 +22,5 @@
 }
 
 .restart-button:hover {
-    background-color: #e04e3b;
+    background-color: #dd1a00;
 }

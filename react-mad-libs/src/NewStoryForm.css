@@ -9,7 +9,7 @@
     gap: 10px;
     width: 100%;
     max-width: 400px;
-    background: #fff;
+    background: #3f3f3f;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -18,12 +18,12 @@
 .form-input {
     padding: 8px 12px;
     font-size: 1rem;
-    border: 1px solid #ccc;
+    border: 1px solid #adadad;
     border-radius: 4px;
 }
 
 .submit-button {
-    background-color: #007bff;
+    background-color: #ff2600;
     color: white;
     padding: 10px;
     font-size: 1rem;
@@ -33,5 +33,5 @@
 }
 
 .submit-button:hover {
-    background-color: #0056b3;
+    background-color: #dd1a00;
 }

@@ -3,12 +3,12 @@
     max-width: 600px;
     margin: 40px auto;
     text-align: center;
-    background-color: #f0f0f0;
+    background-color: #e9ecef;
     border-radius: 8px;
 }
 
 .madlibs-title {
     font-size: 1.8rem;
-    color: #333;
+    color: #000000;
     margin-bottom: 20px;
 }
